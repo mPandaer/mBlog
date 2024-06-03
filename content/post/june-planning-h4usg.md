@@ -41,10 +41,6 @@ isCJKLanguage: true
 * [ ] 开放平台完成两集
 * [ ] 补充MySQL技术
 
-‍
-
-‍
-
-​![image](assets/image-20240603092922-06ogspt.png)​
+​![image](https://raw.githubusercontent.com/mPandaer/mBlog/master/content/images/image-20240603094326-helqxbp.png)​
 
 ‍
