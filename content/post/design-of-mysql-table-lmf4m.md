@@ -10,7 +10,7 @@ isCJKLanguage: true
 
 # MySQL  表的设计
 
-​![image](assets/image-20240606152219-m0aoa1x.png)​
+​![image](https://raw.githubusercontent.com/mPandaer/mBlog/master/content/images/image-20240606153034-ew961za.png)​
 
 今天我要分享的是MySQL中表的设计，我会从四个方面来分享一下表应该如何设计，以及我在设计表的时候遇到的一些坑。首先我们从表的基本组成开始，即字段开始，讨论字段应该如何设计，然后会讨论表的结构设计，比如主键以及索引，然后会讨论一下表的访问设计，是SQL语句访问，还是NoSQL访问呢？最后就是物理存储的设计，是否使用表的压缩功能呢？
 
